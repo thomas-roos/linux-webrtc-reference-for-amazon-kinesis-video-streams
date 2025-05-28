@@ -1,3 +1,4 @@
 build
 examples/demo_config/demo_config.h
 .vscode
+*.pyc

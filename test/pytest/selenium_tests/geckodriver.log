@@ -1,0 +1,84 @@
+1748436128258	geckodriver	INFO	Listening on 127.0.0.1:35407
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+1748436130290	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "47635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTTcMDq"
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+JavaScript error: amazon.cfg, line 51: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436133101	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436133393	Marionette	INFO	Listening on port 41945
+WebDriver BiDi listening on ws://127.0.0.1:47635
+Read port: 41945
+1748436133639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1748436136122	Marionette	INFO	Stopped listening on port 41945
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1748436140243	geckodriver	INFO	Listening on 127.0.0.1:49711
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+1748436142311	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "56799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2LIgvS"
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+JavaScript error: amazon.cfg, line 51: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436144699	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436144904	Marionette	INFO	Listening on port 33903
+Read port: 33903
+WebDriver BiDi listening on ws://127.0.0.1:56799
+1748436144978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1748436147380	Marionette	INFO	Stopped listening on port 33903
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1748436326864	geckodriver	INFO	Listening on 127.0.0.1:35561
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+1748436328883	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "42601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiKLi15"
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+JavaScript error: amazon.cfg, line 51: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436331323	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436331597	Marionette	INFO	Listening on port 33133
+WebDriver BiDi listening on ws://127.0.0.1:42601
+Read port: 33133
+1748436331769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1748436334187	Marionette	INFO	Stopped listening on port 33133
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1748436338171	geckodriver	INFO	Listening on 127.0.0.1:52017
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+1748436340226	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "47721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRThO6N"
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+JavaScript error: amazon.cfg, line 51: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436342629	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1748436342856	Marionette	INFO	Listening on port 33359
+WebDriver BiDi listening on ws://127.0.0.1:47721
+Read port: 33359
+1748436343041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1748436345371	Marionette	INFO	Stopped listening on port 33359
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
